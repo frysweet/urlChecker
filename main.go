@@ -52,7 +52,6 @@ func main() {
 	}
 
 	// people := [2]string{"clue", "lyn"}
-	
 
 	// for _, person := range people {
 
